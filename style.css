@@ -1,0 +1,7 @@
+div {
+  background-image: -webkit-linear-gradient(top, #FF5A00 0%, #FFAE00 100%);
+  background-image: -moz-linear-gradient(top, #FF5A00 0%, #FFAE00 100%);
+  background-image: -ms-linear-gradient(top, #FF5A00 0%, #FFAE00 100%);
+  background-image: -o-linear-gradient(top, #FF5A00 0%, #FFAE00 100%);
+  background-image: linear-gradient(top, #FF5A00 0%, #FFAE00 100%);
+}
